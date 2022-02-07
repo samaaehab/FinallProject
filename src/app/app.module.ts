@@ -7,14 +7,13 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 import { HomeComponent } from './home/home.component';
-<<<<<<< HEAD
+
 import { WomenComponent } from './women/women.component';
 import { KidsComponent } from './kids/kids.component';
 import { AboutComponent } from './about/about.component';
 import { ContactsUsComponent } from './contacts-us/contacts-us.component';
-=======
+
 import { AcountComponent } from './acount/acount.component';
->>>>>>> a7dfe84 (signin&up)
 
 @NgModule({
   declarations: [
@@ -22,14 +21,11 @@ import { AcountComponent } from './acount/acount.component';
     HeaderComponent,
     FooterComponent,
     HomeComponent,
-<<<<<<< HEAD
     WomenComponent,
     KidsComponent,
     AboutComponent,
-    ContactsUsComponent
-=======
+    ContactsUsComponent,
     AcountComponent
->>>>>>> a7dfe84 (signin&up)
   ],
   imports: [
     BrowserModule,
