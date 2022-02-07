@@ -14,6 +14,7 @@ import { AboutComponent } from './about/about.component';
 import { ContactsUsComponent } from './contacts-us/contacts-us.component';
 
 import { AcountComponent } from './acount/acount.component';
+import { MainhomeComponent } from './mainhome/mainhome.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +26,8 @@ import { AcountComponent } from './acount/acount.component';
     KidsComponent,
     AboutComponent,
     ContactsUsComponent,
-    AcountComponent
+    AcountComponent,
+    MainhomeComponent
   ],
   imports: [
     BrowserModule,

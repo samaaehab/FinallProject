@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit} from '@angular/core';
 declare var name: any;
 
 @Component({
@@ -7,8 +7,9 @@ declare var name: any;
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+
   ngOnInit(): void {
     new name();
   }
-  title = 'finall';
+  title = 'final';
 }

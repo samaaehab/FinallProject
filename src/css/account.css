@@ -14,10 +14,10 @@
   color: #444;
 }
 .box_account h3.client {
-  background: url(../img/user.svg) center left no-repeat;
+  background: url(../assets/img/user.svg) center left no-repeat;
 }
 .box_account h3.new_client {
-  background: url(../img/new_user.svg) center left no-repeat;
+  background: url(../assets/img/new_user.svg) center left no-repeat;
 }
 .box_account .form_container {
   background-color: #fff;
