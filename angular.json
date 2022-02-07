@@ -96,7 +96,9 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": ["src/assets/js/common_scripts.min.js",
+              "src/assets/js/main.js",
+              "src/assets/js/carousel-home.js"]
           }
         }
       }
